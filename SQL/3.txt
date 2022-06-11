@@ -1,0 +1,2 @@
+-- Question 3 rahulsin
+the following query finds the number of movies which streamed that had a less runtime than the average and greater voting than the average voting.

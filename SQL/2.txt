@@ -1,0 +1,2 @@
+-- Question 2 rahulsin
+the following query finds the year of the movie streamed only on netflix and had a revenue greater than 50.  

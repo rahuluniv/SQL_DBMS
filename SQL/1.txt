@@ -1,0 +1,2 @@
+-- Question 1 rahulsin
+the following query finds the number of movies which streamed on any platform for each year (in the descending order of the total) with Revenue NULL 
